@@ -1,0 +1,26 @@
+# /etc/conf.d/segretod: config file for /etc/init.d/segretod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/segreto/segreto.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/segretod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/segretod.pid"
+
+# Where to write segretod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/segretod"
+
+# User and group to own segretod process
+#BITCOIND_USER="segreto"
+#BITCOIND_GROUP="segreto"
+
+# Path to segretod executable
+#BITCOIND_BIN="/usr/bin/segretod"
+
+# Nice value to run segretod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

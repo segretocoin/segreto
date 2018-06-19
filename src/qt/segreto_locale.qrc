@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/segreto_bg.qm</file>
+        <file alias="ca">locale/segreto_ca.qm</file>
+        <file alias="cs">locale/segreto_cs.qm</file>
+        <file alias="da">locale/segreto_da.qm</file>
+        <file alias="de">locale/segreto_de.qm</file>
+        <file alias="en">locale/segreto_en.qm</file>
+        <file alias="en_US">locale/segreto_en_US.qm</file>
+        <file alias="es">locale/segreto_es.qm</file>
+        <file alias="fi">locale/segreto_fi.qm</file>
+        <file alias="fr_FR">locale/segreto_fr_FR.qm</file>
+        <file alias="it">locale/segreto_it.qm</file>
+        <file alias="ja">locale/segreto_ja.qm</file>
+        <file alias="ko_KR">locale/segreto_ko_KR.qm</file>
+        <file alias="nl">locale/segreto_nl.qm</file>
+        <file alias="pl">locale/segreto_pl.qm</file>
+        <file alias="pt">locale/segreto_pt.qm</file>
+        <file alias="pt_BR">locale/segreto_pt_BR.qm</file>
+        <file alias="ro_RO">locale/segreto_ro_RO.qm</file>
+        <file alias="ru">locale/segreto_ru.qm</file>
+        <file alias="sk">locale/segreto_sk.qm</file>
+        <file alias="sv">locale/segreto_sv.qm</file>
+        <file alias="tr">locale/segreto_tr.qm</file>
+        <file alias="uk">locale/segreto_uk.qm</file>
+        <file alias="zh_CN">locale/segreto_zh_CN.qm</file>
+        <file alias="zh_TW">locale/segreto_zh_TW.qm</file>
+    </qresource>
+</RCC>
